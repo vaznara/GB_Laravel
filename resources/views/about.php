@@ -9,10 +9,10 @@
     <link rel="stylesheet" href="css/styles.css">
 </head>
 <body>
-<?php include "menu.php"?>
+<?php include "menu.php" ?>
 <section class="about">
-<h1>О проекте</h1>
-<p>Это мой первый проект с Laravel.</p>
+    <h1>О проекте</h1>
+    <p>Это мой первый проект с Laravel.</p>
 </section>
 </body>
 </html>
